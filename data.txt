@@ -1,0 +1,17 @@
+Run	A	B	C	D		"Replicate 1 Results (Distance traveled, in)"	"Replicate 2 Results (Distance traveled, in)"
+1	45 degrees	Backward	9 inches	35 grams			
+2	60 degrees	Backward	3 inches	35 grams			
+3	60 degrees	Backward	9 inches	55 grams			
+4	45 degrees	Forward	9 inches	55 grams			
+5	60 degrees	Forward	9 inches	35 grams			
+6	45 degrees	Forward	3 inches	35 grams			
+7	60 degrees	Forward	3 inches	55 grams			
+8	45 degrees	Backward	3 inches	55 grams			
+9	45 degrees	Backward	3 inches	55 grams			
+10	60 degrees	Backward	9 inches	55 grams			
+11	45 degrees	Backward	9 inches	55 grams			
+12	45 degrees	Forward	9 inches	55 grams			
+13	60 degrees	Forward	3 inches	55 grams			
+14	60 degrees	Backward	3 inches	35 grams			
+15	45 degrees	Forward	3 inches	55 grams			
+16	60 degrees	Forward	9 inches	35 grams			
