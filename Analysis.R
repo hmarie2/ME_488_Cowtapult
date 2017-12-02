@@ -10,8 +10,10 @@ results$C <- factor(results$C)
 results$D <- factor(results$D)
 
 # run ANOVA tests
+library(car)
 DistAOV <- aov(YLD~A+B+C+D, data=results)
 anova(DistAOV)
 
-DistLM <- lm(YLD~A+B+C+D, data=results)
+DistLM <- lm(formula = YLD ~ A+B+C+D+A*B+A*C+A*D+B*C+B*D+C*D, data=results)
 summary(DistLM)
+
